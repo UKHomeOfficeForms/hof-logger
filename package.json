@@ -1,0 +1,35 @@
+{
+  "name": "hof-logger",
+  "version": "1.0.0",
+  "description": "Common logger pattern",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "winston": "^2.2.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint-config-homeoffice": "^0.1.4",
+    "mocha": "^2.5.3",
+    "sinomocha": "^0.2.4",
+    "sinon": "^1.17.4",
+    "sinon-chai": "^2.8.0"
+  },
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UKHomeOffice/hof-logger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UKHomeOffice/hof-logger/issues"
+  },
+  "homepage": "https://github.com/UKHomeOffice/hof-logger#readme"
+}
