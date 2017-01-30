@@ -1,6 +1,6 @@
 {
   "name": "hof-logger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Common logger pattern",
   "main": "index.js",
   "directories": {
