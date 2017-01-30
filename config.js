@@ -1,6 +1,6 @@
 'use strict';
 
-const prod = process.env !== 'ci' && process.env !== 'development'
+const prod = process.env.NODE_ENV !== 'ci' && process.env.NODE_ENV !== 'development'
 
 module.exports = {
   prod,
