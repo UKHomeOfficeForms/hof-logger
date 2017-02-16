@@ -1,5 +1,7 @@
 # hof-logger
-Common logger pattern
+A Common logger pattern to be used across HOF projects.
+
+Although this modules doesn't appear to do very much the intention is to ensure we have a common logging approach across Home Office Forms.
 
 ## Installation
 
