@@ -17,7 +17,7 @@ logger.info('A message');
 ```
 
 ## Options
-Options can be passed to override defaults:
+Options can be passed  and take the form of the following example
 
 ```js
 var createLogger = require('hof-logger');
